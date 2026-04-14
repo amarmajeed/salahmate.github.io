@@ -1,0 +1,17 @@
+Privacy Policy for SalahMate
+
+1- Information we collect
+Data Collected & Purpose:
+·	Location: To provide accurate Salat and Iqamah times and detect when you are at a mosque to automatically enable or disable silent mode. 
+·	Notifications: To deliver Adhan alerts, reminders, and prayer alarms. 
+·	Network Data: Fetches prayer times from our API to ensure accuracy.
+Data: This app does not collect, transmit, or share any personal information but third-party services (AdMob) do.
+ All prayer times and location data are stored locally on your device.
+ 
+Continuous Location Tracking:The app may track your location in the background to detect mosque visits. This allows automatic silent mode activation when you enter a mosque and deactivation when you leave.
+Battery Optimization:Continuous location tracking may increase battery usage. The app is optimized to minimize battery impact while maintaining accurate prayer times and mosque detection.
+User Control:
+·	You can manually set your location instead of auto-detection. 
+·	Notifications and location permissions can be turned off at any time. 
+·	All personal data is used solely for prayer functionality and is not shared with third parties. 
+Security:All data is stored securely and transmitted via encrypted connections to ensure your privacy.
