@@ -14,4 +14,20 @@ User Control:
 ·	You can manually set your location instead of auto-detection. 
 ·	Notifications and location permissions can be turned off at any time. 
 ·	All personal data is used solely for prayer functionality and is not shared with third parties. 
-Security:All data is stored securely and transmitted via encrypted connections to ensure your privacy.
+Security:All data is stored locally.
+
+# SalahMate Data Deletion Policy
+
+SalahMate does not require users to create an account and does not store personal user data on external servers.
+
+All app settings and preferences are stored locally on the user's device.
+
+Users can delete all app data at any time by:
+
+1. Uninstalling the SalahMate application from their device, or
+2. Clearing the application's storage and data through the device settings.
+
+Once the application data is removed or the application is uninstalled, all locally stored information is permanently deleted from the device.
+
+If you have any questions, please contact us at [anabialiba@gmail.com](mailto:anabialiba@gmail.com).
+
