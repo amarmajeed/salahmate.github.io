@@ -1,6 +1,6 @@
 {
-  "android": "1.0.15",
-  "ios": "1.0.15",
-  "forceUpdate": false,
+  "android": "1.1.16",
+  "ios": "1.1.16",
+  "forceUpdate": true,
   "message": "A new version is available."
 }
